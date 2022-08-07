@@ -1,0 +1,58 @@
+
+body
+{
+    background-color: rgb(23, 168, 158);
+    font-family: 'finger paint';
+}
+
+.col-md-4
+ {
+     border-style: solid;
+     border-width: thin;
+     border-color: black;
+     height: 100px;
+ }   
+
+ #\30,#\33,#\36
+{
+    border-left: none;
+}
+
+#\30,#\31,#\32
+{
+    padding: 1%;
+    border-top: none;
+}
+
+#\32,#\35,#\38
+{
+    border-right: none;
+}
+
+#\36,#\37,#\38
+{
+    border-bottom: none;
+}
+
+
+ .row
+ {
+     font-size: xx-large;
+     
+     font-weight: bolder;
+     width: 30%;
+ }
+
+
+.container-fluid
+{ 
+    margin-top: 1%;
+    padding: 1%;
+}
+
+
+#winner_id
+{
+    font-size: larger;
+    font-weight: bolder;
+}
